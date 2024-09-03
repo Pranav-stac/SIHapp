@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023975260620",
+    "project_id": "git-ignore-553eb",
+    "storage_bucket": "git-ignore-553eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023975260620:android:7920664b5491477a871d69",
+        "android_client_info": {
+          "package_name": "com.example.git_ignore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkl2xVzbKrOzxNOMCgS9lz8ODAdUVIIls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
